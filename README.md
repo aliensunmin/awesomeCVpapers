@@ -6,5 +6,5 @@
 (from Li Yao, Atousa Torabi, Kyunghyun Cho, Nicolas Ballas, Christopher Pal, Hugo Larochelle, Aaron Courville, `Describing Videos by Exploiting Temporal Structure`, 	ICCV15'. )
  * HRNE, Zhejiang University [[Paper]](http://arxiv.org/pdf/1511.03476v1.pdf) __Hao__
   * Pingbo Pan, Zhongwen Xu, Yi Yang, Fei Wu, Yueting Zhuang, `Hierarchical Recurrent Neural Encoder for Video Representation with Application to Captioning`, arXiv:1511.03476. 
- * LSTM with CNN+3DCNN & Attention Mechanism [[Paper]](http://arxiv.org/pdf/1502.08029v5.pdf) __Hao__
+ * LSTM with CNN+3DCNN & Attention Mechanism, Universite ́ de Montre ́al [[Paper]](http://arxiv.org/pdf/1502.08029v5.pdf) __Hao__
   * Li Yao, Atousa Torabi, Kyunghyun Cho, Nicolas Ballas, Christopher Pal, Hugo Larochelle, Aaron Courville, `Describing Videos by Exploiting Temporal Structure`, 	ICCV15'. 
