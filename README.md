@@ -6,6 +6,8 @@
 (from Du Tran, Lubomir Bourdev, Rob Fergus, Lorenzo Torresani, Manohar Paluri, `Learning Spatiotemporal Features with 3D Convolutional Networks`, 	ICCV15'. )
  * C3D, Facebook AI Research [[Paper]](http://arxiv.org/pdf/1412.0767v4.pdf) [[Project Page]](http://vlg.cs.dartmouth.edu/c3d/) __Hao__
   * Du Tran, Lubomir Bourdev, Rob Fergus, Lorenzo Torresani, Manohar Paluri, `Learning Spatiotemporal Features with 3D Convolutional Networks`, 	ICCV15'.
+ * CNN with VLAD, The University of Queensland [[Paper]](http://arxiv.org/pdf/1411.4006v1.pdf) __Hao__
+  * Zhongwen Xu, Yi Yang, Alexander G. Hauptmann, `A Discriminative CNN Video Representation for Event Detection`, 	CVPR15'.
 
 ### Video Description Generation
 ![Video Description](https://farm1.staticflickr.com/704/23192389896_db00b3d27d_n.jpg)
