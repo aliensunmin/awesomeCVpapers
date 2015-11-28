@@ -17,3 +17,5 @@
   * Pingbo Pan, Zhongwen Xu, Yi Yang, Fei Wu, Yueting Zhuang, `Hierarchical Recurrent Neural Encoder for Video Representation with Application to Captioning`, arXiv:1511.03476. 
  * LSTM with CNN+3DCNN & Attention Mechanism, Universite ́ de Montre ́al [[Paper]](http://arxiv.org/pdf/1502.08029v5.pdf) __Hao__
   * Li Yao, Atousa Torabi, Kyunghyun Cho, Nicolas Ballas, Christopher Pal, Hugo Larochelle, Aaron Courville, `Describing Videos by Exploiting Temporal Structure`, 	ICCV15'. 
+ * Video caption via LSTM, UT Austin [[Paper]](http://arxiv.org/pdf/1412.4729v3.pdf) __Hao__
+  * Subhashini Venugopalan, Huijuan Xu, Jeff Donahue, Marcus Rohrbach, Raymond Mooney, Kate Saenko, `Translating Videos to Natural Language Using Deep Recurrent Neural Networks`, 	ICCV15'. 
