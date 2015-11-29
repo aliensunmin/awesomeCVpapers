@@ -19,3 +19,5 @@
   * Li Yao, Atousa Torabi, Kyunghyun Cho, Nicolas Ballas, Christopher Pal, Hugo Larochelle, Aaron Courville, `Describing Videos by Exploiting Temporal Structure`, 	ICCV15'. 
  * Video caption via LSTM, UT Austin [[Paper]](http://arxiv.org/pdf/1412.4729v3.pdf) [[Project Page]](https://www.cs.utexas.edu/~vsub/naacl15_project.html) __Hao__
   * Subhashini Venugopalan, Huijuan Xu, Jeff Donahue, Marcus Rohrbach, Raymond Mooney, Kate Saenko, `Translating Videos to Natural Language Using Deep Recurrent Neural Networks`, 	ICCV15'. 
+ * LSTM-E, Microsoft Research, Beijing [[Paper]](http://arxiv.org/pdf/1505.01861v3.pdf) __Hao__
+  * Yingwei Pan, Tao Mei, Ting Yao, Houqiang Li, Yong Rui, `Jointly Modeling Embedding and Translation to Bridge Video and Language`, 		arXiv:1505.01861. 
