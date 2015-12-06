@@ -25,4 +25,37 @@
 ### Wrist Camera
 
  * WristCam System, The University of Tokyo [[Paper]](http://arxiv.org/pdf/1511.06783v1.pdf) __JamesChan__
-  * Katsunori Ohnishi, Atsushi Kanehira, Asako Kanezaki, Tatsuya Harada, `Recognizing Activities of Daily Living with a Wrist-mounted Camera`, arXiv:1511.06783v1.
+  * Katsunori Ohnishi, Atsushi Kanehira, Asako Kanezaki, Tatsuya Harada, `ecognizing Activities of Daily Living with a Wrist-mounted Camera`, arXiv:1511.06783v1.
+
+
+### Optical Flow
+
+ * `Farneback's algorithm : Two-Frame Motion Estimation Based on Polynomial Expansion`[[PAPER]](http://home.isr.uc.pt/~henriques/publications/henriques_nips2014.pdf) __jimcheng__
+*Joao F. Henriques Pedro Martins Rui Caseiro Jorge Batista˜,Institute of Systems and Robotics
+University of Coimbra
+
+
+* LEAR PROJECT of deep and epic flow [[PROJECT PAGE]](http://lear.inrialpes.fr/src/deepmatching/) 
+*`DeepMatching: Deep Convolutional Matching`. DeepMatching was recently used to improve the estimation of optical flow in several methods like DeepFlow and EpicFlow (joint work with Philippe Weinzaepfel, Zaid Harchaoui, Cordelia Schmid).
+
+* `DeepFlow: Large displacement optical flow with deep matching`[[PAPER]](https://hal.inria.fr/hal-00873592/document) __jimcheng__
+*Philippe Weinzaepfel, J´erˆome Revaud, Zaid Harchaoui, Cordelia Schmid. ICCV, Dec 2013, Sydney, Australia. IEEE, pp.1385-1392, 2013, <10.1109/ICCV.2013.175>. <hal-00873592>
+* `EpicFlow: Edge-Preserving Interpolation of Correspondences for Optical Flow`[[PAPER]](https://hal.inria.fr/hal-01142656/document) __jimcheng__
+*Jerome Revaud, Philippe Weinzaepfel, Zaid Harchaoui, Cordelia Schmid. CVPR, Jun 2015, Boston, United States. <hal-01142656>
+
+
+### Hardware Accelaration
+
+* `Parallel Architecture for Hierarchical Optical Flow Estimation Based on FPGA`[[PAPER]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5772045&tag=1) __jimcheng__
+*Francisco Barranco, Matteo Tomasi, Javier Diaz, Mauricio Vanegas, and Eduardo Ros, IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS, VOL. 20, NO. 6, pp.1058-1067, JUNE 2012.
+
+* `Efficient Hardware Implementation of the Horn-Schunck Algorithm for High-Resolution Real-Time Dense Optical Flow Sensor`[[PAPER]](http://www.mdpi.com/1424-8220/14/2/2860/pdf) __jimcheng__
+*Mateusz Komorkiewicz *, Tomasz Kryjak and Marek Gorgon, AGH University of Science and Technology, al. Sensors 2014, 14, 2860-2891; doi:10.3390/s140202860.
+
+* `Caffe con Troll: Shallow Ideas to Speed Up Deep Learning`[[PAPER]](http://arxiv.org/abs/1504.04343) __jimcheng__
+*Stefan Hadjis† Firas Abuzaid† Ce Zhang†‡ Christopher Ré, Stanford University, University of Wisconsin-Madison, arXiv:1504.04343v2 [cs.LG] 26 May 2015.
+* `cuDNN: Efficient Primitives for Deep Learning`[[PAPER]](http://arxiv.org/abs/1410.0759) __jimcheng__
+*Sharan Chetlur, Cliff Woolley, Philippe Vandermersch, Jonathan Cohen, John Tran, NVIDIA, Santa Clara, CA 95050, arXiv:1410.0759v3 [cs.NE] 18 Dec 2014.
+
+
+
