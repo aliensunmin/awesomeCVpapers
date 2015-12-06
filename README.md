@@ -21,3 +21,8 @@
   * Subhashini Venugopalan, Huijuan Xu, Jeff Donahue, Marcus Rohrbach, Raymond Mooney, Kate Saenko, `Translating Videos to Natural Language Using Deep Recurrent Neural Networks`, 	ICCV15'. 
  * LSTM-E, Microsoft Research, Beijing [[Paper]](http://arxiv.org/pdf/1505.01861v3.pdf) __Hao__
   * Yingwei Pan, Tao Mei, Ting Yao, Houqiang Li, Yong Rui, `Jointly Modeling Embedding and Translation to Bridge Video and Language`, 		arXiv:1505.01861. 
+
+### Wrist Camera
+
+ * WristCam System, The University of Tokyo [[Paper]](http://arxiv.org/pdf/1511.06783v1.pdf) __JamesChan__
+  * Katsunori Ohnishi, Atsushi Kanehira, Asako Kanezaki, Tatsuya Harada, `Recognizing Activities of Daily Living with a Wrist-mounted Camera`, arXiv:1511.06783v1.
