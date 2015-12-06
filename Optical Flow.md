@@ -3,7 +3,7 @@
 
 ### dense flow
 
- * [[Two-Frame Motion Estimation Based on Polynomial Expansion]](http://home.isr.uc.pt/~henriques/publications/henriques_nips2014.pdf) __jimcheng__
+ * Farneback's algorithm : Two-Frame Motion Estimation Based on Polynomial Expansion[[PAPER]](http://home.isr.uc.pt/~henriques/publications/henriques_nips2014.pdf) __jimcheng__
 
 
 * LEAR PROJECT PAGE [[PROJECT]](http://lear.inrialpes.fr/src/deepmatching/) 
