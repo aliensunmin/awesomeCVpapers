@@ -21,6 +21,8 @@
   * Subhashini Venugopalan, Huijuan Xu, Jeff Donahue, Marcus Rohrbach, Raymond Mooney, Kate Saenko, `Translating Videos to Natural Language Using Deep Recurrent Neural Networks`, 	ICCV15'. 
  * LSTM-E, Microsoft Research, Beijing [[Paper]](http://arxiv.org/pdf/1505.01861v3.pdf) __Hao__
   * Yingwei Pan, Tao Mei, Ting Yao, Houqiang Li, Yong Rui, `Jointly Modeling Embedding and Translation to Bridge Video and Language`, 		arXiv:1505.01861. 
+ * p-RNN, Purdue University, Baidu Research - Institute of Deep Learning [[Paper]](http://arxiv.org/pdf/1510.07712v1.pdf) __Hao__
+  * Haonan Yu, Jiang Wang, Zhiheng Huang, Yi Yang, Wei Xu, `Video Paragraph Captioning using Hierarchical Recurrent Neural Networks`, 			arXiv:1510.07712. 
 
 ### Wrist Camera
 
